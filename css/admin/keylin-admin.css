@@ -1,0 +1,384 @@
+.redux-field-info {
+    margin-bottom: 30px;
+}
+.redux-info-desc img {
+    max-height: 70px;
+}
+#info-heading2_center_img_info, #info-heading3c_img_info, #info-heading5_img_info, #info-heading11_img_info {
+    text-align: center;
+}
+.redux-sidebar .redux-group-menu li a {
+    padding: 13px 4px 13px 14px;
+}
+
+.redux-sidebar {
+    width: 260px;
+}
+
+.redux-container .redux-main {
+    margin-left: 260px;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a,
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a,
+.wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a,
+.wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a {
+    padding: 13px 7px;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a,
+.wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a,
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections a,
+.wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections a,
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a,
+.wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a {
+    background: #abc5d5;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections > a {
+    background-color: #222 !important;
+    color: #fff;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a,
+.wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li.active a {
+    background: #1e8cbe;
+    text-shadow: none;
+}
+
+.admin-color-fresh .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover,
+.admin-color-fresh .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover,
+.wp-customizer .redux-sidebar .redux-group-menu li.active.hasSubSections ul.subsection li a:hover,
+.wp-customizer .redux-sidebar .redux-group-menu li.activeChild.hasSubSections ul.subsection li a:hover {
+    background: #1e8cbe;
+    color: #fff;
+}
+
+.rwmb-heading-wrapper {
+    margin: -2rem -14px 2rem !important;
+    padding: 15px;
+}
+
+.rwmb-heading-wrapper h4 {
+    font-size: 16px !important;
+    font-weight: bold !important;
+    opacity: 0.95 !important;
+    padding: 0.75rem 0 0.375rem !important;
+    margin: 0 0 0.75rem !important;
+}
+
+.rwmb-image-select img {
+    width: 100%;
+    height: auto !important;
+}
+
+.redux-main .wp-picker-container .wp-color-result-text {
+    line-height: 26px;
+}
+
+#suga_option-bk-header-type ul li {
+    display: block !important;
+    margin: 10px 0 !important;
+}
+
+.redux-container .redux-main .redux-field-container {
+    max-width: 600px;
+}
+
+#meta-box-notification {
+    display: none !important;
+}
+
+.redux-container-image_select .redux-image-select img,
+.redux-container-image_select .redux-image-select-selected img,
+.redux-container-image_select .redux-image-select .tiles,
+.redux-container-image_select .redux-image-select-selected .tiles {
+    border-width: 2px;
+}
+
+.datepicker-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 160px;
+    padding: 5px 0;
+    margin: 2px 0 0;
+    list-style: none;
+    font-size: 14px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+    background-clip: padding-box;
+}
+
+.rwmb-input .description {
+    clear: both;
+}
+
+.redux-container .form-table > tbody > tr.bk-single-post-layout--global-option > th {
+    width: 18%;
+}
+
+.redux-container .bk-single-post-layout--global-option .redux-container-image_select .redux-image-select img {
+    border-width: 2px;
+    margin: 0 10px 10px 10px;
+}
+
+.redux-container .redux-main > h2 {
+    padding-left: 10px;
+    text-transform: uppercase;
+    border-left: 8px solid #000;
+}
+/*** Tiny MCE***/
+.mce-bk-shortcode-popup-frame {
+    height: 500px !important;
+    overflow-y: scroll;
+    top: 60px !important;
+}
+
+.mce-bk-shortcode-popup-frame .mce-widget {
+    min-width: 250px !important;
+}
+
+.mce-bk-shortcode-popup-frame .mce-widget.mce-label {
+    max-width: 200px !important;
+    min-width: 0 !important;
+}
+
+.mce-bk-shortcode-popup-frame .mce-colorpicker {
+    max-height: 110px !important;
+}
+
+.mce-my_upload_button {
+    max-width: 250px !important;
+}
+/********* Post Review Admin ************/
+.field-bkmegamenu {
+    clear: both;
+    padding-top: 10px;
+}
+
+.rwmb-divider-wrapper {
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+/*
+ * Menu
+ */
+.menu-item-settings .bk-description-thin,
+.menu-item-settings .bk-description-wide {
+    float: none !important;
+}
+
+/* Theme Options **/
+.redux-container .redux-group-tab #single-sections-sorter h3 {
+    text-transform: capitalize;
+}
+
+.redux-container .admin-color-fresh .redux-sidebar .redux-group-menu li.active a {
+    background: #23282d;
+    color: #fff;
+}
+
+.redux-container .redux-section-field.redux-section-indent-start {
+    padding: 15px;
+    background: #23282d;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.redux-container .redux-section-field.redux-section-indent-start .redux-section-desc {
+    margin-bottom: 0;
+    color: #aaa;
+}
+
+.redux-container .redux-section-field > h3 {
+    border-bottom: 0 !important;
+    color: #fff;
+    margin: 0 !important;
+}
+
+.redux-container .redux-main .form-table tr {
+    border: 0;
+}
+
+.rwmb-meta-box .rwmb-image-select {
+    width: 17%;
+    height: auto;
+}
+.rwmb-meta-box .rwmb-image-select:first-child {
+    margin-bottom: 0;
+}
+
+.redux-container #single-sections-sorter_enabled h3 {
+    display: none;
+}
+/* Metabox Description */
+#bk_post_ops h2:after {
+    content: "[From Theme Option]: Setting from Theme Options -> Single Page; Related Section and Same Category Section from Theme Options -> Advance Page";
+    font-weight: 400;
+    font-style: italic;
+    display: block;
+    color: #ddd;
+}
+
+#bk_single_post_sidebar h2:after,
+#bk_section_show_hide h2:after {
+    content: "[From Theme Option]: Setting from Theme Options -> Single Page";
+    font-weight: 400;
+    font-style: italic;
+    display: block;
+    color: #ddd;
+}
+
+#bk_related_post_ops h2:after,
+#bk_same_cat_post_ops h2:after {
+    content: "[From Theme Option]: Setting from Theme Options -> Advance Single Page - With Sidebar";
+    font-weight: 400;
+    font-style: italic;
+    display: block;
+    color: #ddd;
+}
+
+#bk_related_post_ops_wide h2:after,
+#bk_same_cat_post_ops_wide h2:after {
+    content: "[From Theme Option]: Setting from Theme Options -> Advance Single Page - Full Width";
+    font-weight: 400;
+    font-style: italic;
+    display: block;
+    color: #ddd;
+}
+
+.iris-picker-inner {
+    display: flex;
+}
+
+.iris-slider.iris-strip {
+    height: 100% !important;
+}
+
+/** Fix Action Bar button spacing **/
+
+.redux-action_bar > *:not(:last-child) {
+    margin-right: 0.5em;
+}
+
+/** Update WordPress 5.6 **/
+
+/*Theme Option*/
+
+.redux-sidebar .redux-group-menu li.active a,
+.redux-sidebar .redux-group-menu li.active a:hover,
+.redux-sidebar .redux-group-menu li.activeChild a,
+.redux-sidebar .redux-group-menu li.activeChild a:hover {
+    width: 260px;
+}
+
+.redux-container .buttonset .ui-button .ui-icon {
+    display: none;
+}
+
+.redux-container-select .select2-selection input[type="date"],
+.redux-container-select .select2-selection input[type="datetime-local"],
+.redux-container-select .select2-selection input[type="datetime"],
+.redux-container-select .select2-selection input[type="email"],
+.redux-container-select .select2-selection input[type="month"],
+.redux-container-select .select2-selection input[type="number"],
+.redux-container-select .select2-selection input[type="password"],
+.redux-container-select .select2-selection input[type="search"],
+.redux-container-select .select2-selection input[type="tel"],
+.redux-container-select .select2-selection input[type="text"],
+.redux-container-select .select2-selection input[type="time"],
+.redux-container-select .select2-selection input[type="url"],
+.redux-container-select .select2-selection input[type="week"] {
+    min-height: initial !important;
+}
+
+.select2-container .select2-selection--multiple .select2-selection__rendered {
+    vertical-align: middle;
+}
+
+.redux-main .button.remove-image:hover,
+.redux-main .removeCSS:hover {
+    color: #ff9800;
+}
+
+.redux-container-media .upload {
+    margin-bottom: 0.25em;
+}
+
+/*Meta Box*/
+
+.edit-post-layout .interface-interface-skeleton__content {
+    background-color: #eef3f6;
+}
+
+.edit-post-meta-boxes-area .postbox {
+    margin-bottom: 1.5rem;
+    border-radius: 4px;
+}
+
+.edit-post-meta-boxes-area #poststuff .postbox-header {
+    background: #455a64;
+}
+
+.edit-post-meta-boxes-area #poststuff h2.hndle {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.edit-post-meta-boxes-area .postbox .handle-order-higher,
+.edit-post-meta-boxes-area .postbox .handle-order-lower,
+.edit-post-meta-boxes-area .postbox .toggle-indicator {
+    color: #fff;
+}
+
+.postbox .handle-order-higher[aria-disabled="true"],
+.postbox .handle-order-lower[aria-disabled="true"] {
+    color: #a0a5aa;
+}
+
+.edit-post-meta-boxes-area #poststuff .inside {
+    margin: 0;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.rwmb-image_select-wrapper .rwmb-image-select img {
+    height: auto;
+}
+
+.rwmb-meta-box .rwmb-field:not(:last-of-type) {
+    margin: 0 0 1.5rem;
+}
+
+/** No Image **/
+.redux-container-image_select .redux-image-select img {
+    min-width: 100px;
+    min-height: 50px;
+}
+
+/* Prevent warning icon overflow */
+.redux-container .redux-sidebar .redux-group-menu li.active a {
+    box-sizing: border-box;
+}
+/* New Metabox Update */
+.edit-post-layout__metaboxes:not(:empty) {
+    padding-top: 40px !important;
+}
+.postbox .hndle {
+    border: 0;
+}
+#bk_review .rwmb-heading-wrapper, #poststuff #bk_review .inside {
+    margin-top: 0 !important;
+}
+.rwmb-input select{
+    max-width: 250px;
+}
